@@ -2,3 +2,4 @@
 /data
 .dvc/gdrive-creds.json
 .dvc/config
+.dvc/config.local
